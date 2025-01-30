@@ -1,5 +1,9 @@
 <body>
     <h1>Welcome to the Abacus Market</h1>
+    <img src="https://github.com/Abacus-onion/Abacus-Market/blob/main/ab-landing.jpg" alt="Abacus Market Homepage" style="max-width:100%; height:auto;">
+    <li>
+<p dir="auto"><a href="http://abacusmxepyq47fgshe7x5svclv6lh5dtnqvgmdbfddlmjpmei2k6iad.onion" rel="nofollow">Abacus Market</a> - <code>http://abacusmxepyq47fgshe7x5svclv6lh5dtnqvgmdbfddlmjpmei2k6iad.onion</code></p>
+</li>
     <p>Abacus is one of the most innovative and feature-rich markets. Launched in 2021, it features Bitcoin, Escrow, XMR, FE, and Multisig.</p>
     <h2>About Abacus Market</h2>
     <p>Abacus Market is a new platform that was previously named Alphabet Market and was styled to resemble the now-shuttered Alphabay Market. In October 2021, Alphabay Market relaunched, and Alphabet Market rebranded as Abacus Market to avoid confusion.</p>
